@@ -1,16 +1,32 @@
-# React + Vite
+# English Learning Game Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web application designed to help users learn and think in English through games and practical tools.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+(Coming soon)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
+- Flashcards for vocabulary learning
+- Memory game (word matching)
+- Listening quiz with audio (planned)
+- Dictionary system to save and review words
+- Custom deck creation (planned)
 
-## React Compiler
+## 🧠 Concept
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project focuses on helping users think in English instead of translating, using interactive and engaging learning methods.
 
-## Expanding the ESLint configuration
+## 🛠 Technologies
+- React
+- JavaScript
+- Vite
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📚 What I’m Learning
+- Building real-world React applications
+- State management with React Hooks
+- Component-based architecture
+- UI/UX improvement
+
+## ▶️ How to Run
+...
